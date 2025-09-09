@@ -14,7 +14,7 @@ Este repositório contém **6 exercícios práticos** desenvolvidos durante a di
 ## Tecnologias utilizadas  
 - **JavaScript (Node.js)**  
 
-## 🚀 Como Executar  
+## Como Executar  
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/USERNAME/NOME-DO-REPOSITORIO.git
