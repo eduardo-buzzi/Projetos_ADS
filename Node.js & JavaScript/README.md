@@ -1,4 +1,4 @@
-# 🚀 Algoritmos e Programação - Node.js & JavaScript  
+# Algoritmos e Programação - Node.js & JavaScript  
 
 Repositório criado para armazenar atividades da faculdade relacionadas à disciplina **Algoritmos e Programação**, utilizando **JavaScript** e **Node.js**.  
 
@@ -18,7 +18,7 @@ Este repositório tem como objetivo documentar minha evolução no aprendizado d
 - [Node.js](https://nodejs.org/)  
 - JavaScript  
 
-## 🚀 Como Executar  
+## Como Executar  
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/USERNAME/NOME-DO-REPOSITORIO.git
