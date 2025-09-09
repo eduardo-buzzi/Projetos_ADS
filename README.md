@@ -1,4 +1,4 @@
-# 🚀 Repositório de Trabalhos - Análise e Desenvolvimento de Sistemas (2º Semestre)
+# Repositório de Trabalhos - Análise e Desenvolvimento de Sistemas (2º Semestre)
 
 Este repositório contém implementações, práticas de programação, atividades avaliativas e projetos realizados durante o 2º semestre do curso de Análise e Desenvolvimento de Sistemas. O objetivo é organizar e disponibilizar as soluções desenvolvidas nas disciplinas ao longo do semestre, com foco no aprendizado de novas tecnologias, ferramentas e conceitos da área de tecnologia da informação.
 
